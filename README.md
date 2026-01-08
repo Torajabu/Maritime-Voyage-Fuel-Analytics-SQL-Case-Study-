@@ -220,5 +220,3 @@ SQL & Data Analytics Project
 MySQL 8.0
 
 ---
-
-Just tell me the next step.
